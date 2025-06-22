@@ -4,7 +4,7 @@
 
 ## 📋 Deskripsi
 
-KursMe adalah aplikasi web yang dirancang untuk memudahkan pengelolaan sistem kursus dengan fitur lengkap mulai dari manajemen instruktur, kursus, peserta, hingga sistem pendaftaran dengan validasi yang ketat.
+Website ini adalah aplikasi web yang dirancang untuk memudahkan pengelolaan sistem kursus dengan fitur lengkap mulai dari manajemen instruktur, kursus, peserta, hingga sistem pendaftaran dengan validasi yang ketat.
 
 ## 📸 Screenshots
 
