@@ -9,11 +9,11 @@ KursMe adalah aplikasi web yang dirancang untuk memudahkan pengelolaan sistem ku
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 *Dashboard utama dengan overview sistem manajemen kursus*
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/Login.png)
 *Halaman login dengan form autentikasi*
 
 ### Daftar Kursus
