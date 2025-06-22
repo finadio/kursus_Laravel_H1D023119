@@ -1,4 +1,4 @@
-# 🎓 KursMe - Sistem Manajemen Kursus
+# Sistem Manajemen Kursus
 
 **Sistem Manajemen Kursus** yang dibangun menggunakan **Laravel 12** dan **Livewire** untuk mengelola data kursus, instruktur, peserta, dan pendaftaran.
 
@@ -15,22 +15,6 @@ KursMe adalah aplikasi web yang dirancang untuk memudahkan pengelolaan sistem ku
 ### Login Page
 ![Login](screenshots/Login.png)
 *Halaman login dengan form autentikasi*
-
-### Daftar Kursus
-![Kursus](screenshots/kursus.png)
-*Halaman daftar kursus dengan fitur search dan filter*
-
-### Form Tambah Kursus
-![Tambah Kursus](screenshots/tambah-kursus.png)
-*Form untuk menambah kursus baru*
-
-### Daftar Peserta
-![Peserta](screenshots/peserta.png)
-*Halaman daftar peserta dengan fitur edit dan hapus*
-
-### Sistem Pendaftaran
-![Pendaftaran](screenshots/pendaftaran.png)
-*Halaman sistem pendaftaran kursus*
 
 ## 🛠️ Teknologi yang Digunakan
 
