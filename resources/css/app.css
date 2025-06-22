@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles untuk memastikan tombol edit bisa diklik */
+.edit-button {
+    pointer-events: auto !important;
+    cursor: pointer !important;
+    z-index: 10 !important;
+    position: relative !important;
+}
+
+.edit-button:hover {
+    pointer-events: auto !important;
+    cursor: pointer !important;
+}
