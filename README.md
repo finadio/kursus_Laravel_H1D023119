@@ -28,16 +28,16 @@ Website ini adalah aplikasi web yang dirancang untuk memudahkan pengelolaan sist
 
 ## ✨ Fitur Utama
 
-- ✅ **Dashboard Admin** - Panel kontrol utama
-- ✅ **Manajemen Instruktur** - CRUD lengkap
-- ✅ **Manajemen Kursus** - CRUD dengan relasi instruktur
-- ✅ **Manajemen Peserta** - Data peserta kursus
-- ✅ **Sistem Pendaftaran** - Pendaftaran kursus dengan validasi
-- ✅ **Manajemen Materi** - Upload dan kelola materi per kursus
-- ✅ **Profile Management** - Edit profil user
-- ✅ **Validasi Data** - Mencegah duplikasi pendaftaran
-- ✅ **Responsive Design** - Tampilan responsif dengan Tailwind CSS
-- ✅ **Jumlah Peserta per Kursus** - Statistik pendaftaran
+- **Dashboard Admin** - Panel kontrol utama
+- **Manajemen Instruktur** - CRUD lengkap
+- **Manajemen Kursus** - CRUD dengan relasi instruktur
+- **Manajemen Peserta** - Data peserta kursus
+- **Sistem Pendaftaran** - Pendaftaran kursus dengan validasi
+- **Manajemen Materi** - Upload dan kelola materi per kursus
+- **Profile Management** - Edit profil user
+- **Validasi Data** - Mencegah duplikasi pendaftaran
+- **Responsive Design** - Tampilan responsif dengan Tailwind CSS
+- **Jumlah Peserta per Kursus** - Statistik pendaftaran
 
 ## 🗄️ Struktur Database
 
